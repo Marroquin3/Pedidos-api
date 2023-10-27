@@ -1,0 +1,22 @@
+[
+    {
+        "Id": 1,
+        "Nombre": "Oswaldo",
+        "Apellido": "Ocotan",
+        "Gmail": "Example123@gmail.com",
+        "Password": "Example12",
+        "rol": "Usuario"
+        
+    },
+    { "Id": 1,
+    "Nombre": "Oswaldo",
+    "Apellido": "Ocotan",
+    "Gmail": "Example123@gmail.com",
+    "Password": "Example12",
+    "rol": "Administrador"
+    },
+    {
+        "Correo" : "Example123@gmail.com",
+        "Password": "Example12"
+    }
+]
